@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Add 1 item in the basket 4 times
+using FOR loop
+2. Add 3 random items in the
+basket
+3. Click on basket icon and then
+click on Proceed to checkout
+button</description>
+   <name>Add random item to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc9ced00-0c50-4b56-b827-75a38f677220</testCaseGuid>
+</TestCaseEntity>

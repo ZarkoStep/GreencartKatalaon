@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_ACTIONS</name>
+   <tag></tag>
+   <elementGuidId>94f7656b-645c-4b0a-9829-24667b033c62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actions']/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actions > div.thumbnail > div.section-title > h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>9eae1a7b-7d3e-4684-a591-3244011f1375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACTIONS</value>
+      <webElementGuid>cbfc66f2-a5cf-4fed-a816-e2399e303e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actions&quot;)/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;section-title&quot;]/h1[1]</value>
+      <webElementGuid>a1332bf6-85c9-4ff7-8f79-00f894ff9bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='actions']/div/div/h1</value>
+      <webElementGuid>33f4ed54-66fd-48b1-a602-fb1b3a6e0c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wait..... for the Ajax Loader'])[1]/following::h1[1]</value>
+      <webElementGuid>141a7fc0-c484-46fd-b5bf-29838ec405c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AJAX LOADER'])[1]/following::h1[1]</value>
+      <webElementGuid>6dd8a4bc-9759-4866-95c8-68918c3f2ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can you really handle this challenge?'])[1]/preceding::h1[1]</value>
+      <webElementGuid>137e203b-f95a-4f3c-ab9a-f198e0f62f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCROLLING AROUND'])[1]/preceding::h1[1]</value>
+      <webElementGuid>87fd7f17-1a3b-4d6d-b6f1-a7801f12b819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACTIONS']/parent::*</value>
+      <webElementGuid>7c2292cc-287d-493e-9bd4-afb7b2c65865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/a/div/div/h1</value>
+      <webElementGuid>4f13a0d1-bf65-46f0-80c6-9ff0a4e6ec08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'ACTIONS' or . = 'ACTIONS')]</value>
+      <webElementGuid>e898d3ce-5e8b-42fe-ac71-d3b73f9ce0cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Cards</description>
+   <name>allCarts</name>
+   <tag></tag>
+   <elementGuidId>efe799fc-c8ec-4ba9-8b5c-f091264fad71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[1]/div[1]/div[1]/div[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[1]/div[1]/div[1]/div[1]/div</value>
+      <webElementGuid>9495f402-bd4e-45f3-878a-e33d1a7c4229</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

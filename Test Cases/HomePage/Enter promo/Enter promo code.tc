@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter a promo code (for the
+promo code number use the
+Total Amount number)
+
+Total Amount
+number should be
+used and entered
+in the Promo Code
+field</description>
+   <name>Enter promo code</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <testCaseGuid>ca0e9fd3-6a3a-4d1c-a0f8-4cd17b7f1fce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Free Access to InterviewQuesResumeAssista_ebce08</name>
+   <tag></tag>
+   <elementGuidId>822f951a-24b3-43b5-8545-8ca9a76727bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.cart-header-navlink.blinkingText</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://rahulshettyacademy.com/documents-request' and (text() = 'Free Access to InterviewQues/ResumeAssistance/Material' or . = 'Free Access to InterviewQues/ResumeAssistance/Material')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b8d0c359-6d73-47c9-867c-d3e0eb1500ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-header-navlink blinkingText</value>
+      <webElementGuid>08b6eff9-1cae-48ce-9195-97f713aa952f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rahulshettyacademy.com/documents-request</value>
+      <webElementGuid>c813ecea-6c8d-4474-a9dc-696c970d1d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a6faa8c7-d4a2-4bb9-8dbd-c9db1be9cfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Free Access to InterviewQues/ResumeAssistance/Material</value>
+      <webElementGuid>cedeb1b5-ea18-49b8-b4b9-504a5cee29ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;cart&quot;]/a[@class=&quot;cart-header-navlink blinkingText&quot;]</value>
+      <webElementGuid>b9c5b1d6-c07b-4277-a3b0-4420091d2982</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div[3]/a</value>
+      <webElementGuid>b99c9c5b-7ba7-4b0b-82de-a7ab625f5c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Free Access to InterviewQues/ResumeAssistance/Material')]</value>
+      <webElementGuid>d7298503-3ce8-4f4a-9e14-f17c111e0469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KART'])[1]/following::a[3]</value>
+      <webElementGuid>5ba93e6e-cc69-4e4b-80f6-bdeb507fa97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Deals'])[1]/preceding::a[1]</value>
+      <webElementGuid>0aa6693e-5130-4276-aeaa-bc67cfd53e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Booking'])[1]/preceding::a[2]</value>
+      <webElementGuid>c5698854-caf6-4d02-8e89-8c07f6f51ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Free Access to InterviewQues/ResumeAssistance/Material']/parent::*</value>
+      <webElementGuid>9cd00d70-a32c-498c-a53e-30cdba253fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://rahulshettyacademy.com/documents-request')]</value>
+      <webElementGuid>99390871-15f7-43e0-8d79-6a53fd550ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>1678f884-3532-4211-b210-67a9218e6469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rahulshettyacademy.com/documents-request' and (text() = 'Free Access to InterviewQues/ResumeAssistance/Material' or . = 'Free Access to InterviewQues/ResumeAssistance/Material')]</value>
+      <webElementGuid>19ec0588-ecec-43d0-aa63-9aefa3d380dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

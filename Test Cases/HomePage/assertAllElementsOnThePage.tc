@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Home Page</description>
+   <name>assertAllElementsOnThePage</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <testCaseGuid>82e62ebf-e65d-440e-9e4a-d5a71e67f827</testCaseGuid>
+</TestCaseEntity>

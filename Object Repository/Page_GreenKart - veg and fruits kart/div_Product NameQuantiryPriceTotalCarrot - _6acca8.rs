@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Product NameQuantiryPriceTotalCarrot - _6acca8</name>
+   <tag></tag>
+   <elementGuidId>ba91b4c0-3d36-47a3-b641-0355358e9ab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.products</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>090f0c31-10a3-4d3c-b6a9-bf4da64151ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>products</value>
+      <webElementGuid>66ae3a0f-6b49-4a36-8b3c-308c5369ce07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#Product NameQuantiryPriceTotalCarrot - 1 Kg456224Cucumber - 1 Kg14848Beetroot - 1 Kg13232    ApplyInvalid code ..!No. of Items     : 3 Total Amount     : 304 Discount          : 0%Total After Discount : 304Place Order</value>
+      <webElementGuid>5ecd1a9f-9d9a-4d86-88f1-58c51cf0f40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;products&quot;]</value>
+      <webElementGuid>97575b7e-bf85-48f2-a902-b68c9fce87c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div</value>
+      <webElementGuid>64761991-74b3-4253-8ee6-fc26cb029c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KART'])[1]/following::div[2]</value>
+      <webElementGuid>768d22b9-f650-4b41-8a87-52e971dd0bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>c83a8618-9425-48a3-964b-ed1778b60010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '#Product NameQuantiryPriceTotalCarrot - 1 Kg456224Cucumber - 1 Kg14848Beetroot - 1 Kg13232    ApplyInvalid code ..!No. of Items     : 3 Total Amount     : 304 Discount          : 0%Total After Discount : 304Place Order' or . = '#Product NameQuantiryPriceTotalCarrot - 1 Kg456224Cucumber - 1 Kg14848Beetroot - 1 Kg13232    ApplyInvalid code ..!No. of Items     : 3 Total Amount     : 304 Discount          : 0%Total After Discount : 304Place Order')]</value>
+      <webElementGuid>3e332c39-1282-4a33-96b5-035e24984292</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

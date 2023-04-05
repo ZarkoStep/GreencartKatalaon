@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GREENKARTFree Access to InterviewQuesRe_7de52d</name>
+   <tag></tag>
+   <elementGuidId>403dce33-09fa-4c12-b9f8-eaab3f4de2d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header > div.container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0fafe9e-9200-4e6d-b1b2-52e65f8024bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>65cbf4a5-a9a3-4f65-8749-15340b02d62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GREENKARTFree Access to InterviewQues/ResumeAssistance/MaterialTop DealsFlight BookingItems:0Price:0You cart is empty!PROCEED TO CHECKOUT</value>
+      <webElementGuid>e40914dc-ddf8-4861-b4fa-87d8a05f9f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]</value>
+      <webElementGuid>0699b53b-4bea-417a-9e1b-b3fdf98482b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div</value>
+      <webElementGuid>91b119ca-dbde-4c13-937a-399590a29ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div</value>
+      <webElementGuid>1f5e4a03-bb02-4b59-8142-46d09eaa5fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GREENKARTFree Access to InterviewQues/ResumeAssistance/MaterialTop DealsFlight BookingItems:0Price:0You cart is empty!PROCEED TO CHECKOUT' or . = 'GREENKARTFree Access to InterviewQues/ResumeAssistance/MaterialTop DealsFlight BookingItems:0Price:0You cart is empty!PROCEED TO CHECKOUT')]</value>
+      <webElementGuid>a60977df-edf2-4c53-acfc-00312166cbd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

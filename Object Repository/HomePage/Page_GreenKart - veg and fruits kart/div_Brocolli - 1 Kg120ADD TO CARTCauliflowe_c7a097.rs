@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brocolli - 1 Kg120ADD TO CARTCauliflowe_c7a097</name>
+   <tag></tag>
+   <elementGuidId>cc77115a-e3cb-41ef-8158-9136ab10e1c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.products</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3931d0f3-00c2-4bab-b028-49393639fb3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>products</value>
+      <webElementGuid>963ae6b6-a283-493d-b2c7-6f6c70bd0c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brocolli - 1 Kg120–+ADD TO CARTCauliflower - 1 Kg60–+ADD TO CARTCucumber - 1 Kg48–+ADD TO CARTBeetroot - 1 Kg32–+ADD TO CARTCarrot - 1 Kg56–+ADD TO CARTTomato - 1 Kg16–+ADD TO CARTBeans - 1 Kg82–+ADD TO CARTBrinjal - 1 Kg35–+ADD TO CARTCapsicum60–+ADD TO CARTMushroom - 1 Kg75–+ADD TO CARTPotato - 1 Kg22–+ADD TO CARTPumpkin - 1 Kg48–+ADD TO CARTCorn - 1 Kg75–+ADD TO CARTOnion - 1 Kg16–+ADD TO CARTApple - 1 Kg72–+ADD TO CARTBanana - 1 Kg45–+ADD TO CARTGrapes - 1 Kg60–+ADD TO CARTMango - 1 Kg75–+ADD TO CARTMusk Melon - 1 Kg36–+ADD TO CARTOrange - 1 Kg75–+ADD TO CARTPears - 1 Kg69–+ADD TO CARTPomegranate - 1 Kg95–+ADD TO CARTRaspberry - 1/4 Kg160–+ADD TO CARTStrawberry - 1/4 Kg180–+ADD TO CARTWater Melon - 1 Kg28–+ADD TO CARTAlmonds - 1/4 Kg200–+ADD TO CARTPista - 1/4 Kg190–+ADD TO CARTNuts Mixture - 1 Kg950–+ADD TO CARTCashews - 1 Kg650–+ADD TO CARTWalnuts - 1/4 Kg170–+ADD TO CART</value>
+      <webElementGuid>b6d0a7aa-c3e7-4bb6-821f-d84eb8f93cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;products&quot;]</value>
+      <webElementGuid>58638e0b-58ed-4913-bb16-ac8f2cfd4be8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div</value>
+      <webElementGuid>7b4ef5a5-a9b1-4f8e-8a60-321d825aac39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCEED TO CHECKOUT'])[1]/following::div[2]</value>
+      <webElementGuid>a0be85df-34dc-4de6-885d-dd20268a4b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You cart is empty!'])[1]/following::div[7]</value>
+      <webElementGuid>ea2aeae7-de24-40d1-b143-f98e62e481b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>5704e43d-fdc0-4b5e-b5f3-b9a21339c1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Brocolli - 1 Kg120–+ADD TO CARTCauliflower - 1 Kg60–+ADD TO CARTCucumber - 1 Kg48–+ADD TO CARTBeetroot - 1 Kg32–+ADD TO CARTCarrot - 1 Kg56–+ADD TO CARTTomato - 1 Kg16–+ADD TO CARTBeans - 1 Kg82–+ADD TO CARTBrinjal - 1 Kg35–+ADD TO CARTCapsicum60–+ADD TO CARTMushroom - 1 Kg75–+ADD TO CARTPotato - 1 Kg22–+ADD TO CARTPumpkin - 1 Kg48–+ADD TO CARTCorn - 1 Kg75–+ADD TO CARTOnion - 1 Kg16–+ADD TO CARTApple - 1 Kg72–+ADD TO CARTBanana - 1 Kg45–+ADD TO CARTGrapes - 1 Kg60–+ADD TO CARTMango - 1 Kg75–+ADD TO CARTMusk Melon - 1 Kg36–+ADD TO CARTOrange - 1 Kg75–+ADD TO CARTPears - 1 Kg69–+ADD TO CARTPomegranate - 1 Kg95–+ADD TO CARTRaspberry - 1/4 Kg160–+ADD TO CARTStrawberry - 1/4 Kg180–+ADD TO CARTWater Melon - 1 Kg28–+ADD TO CARTAlmonds - 1/4 Kg200–+ADD TO CARTPista - 1/4 Kg190–+ADD TO CARTNuts Mixture - 1 Kg950–+ADD TO CARTCashews - 1 Kg650–+ADD TO CARTWalnuts - 1/4 Kg170–+ADD TO CART' or . = 'Brocolli - 1 Kg120–+ADD TO CARTCauliflower - 1 Kg60–+ADD TO CARTCucumber - 1 Kg48–+ADD TO CARTBeetroot - 1 Kg32–+ADD TO CARTCarrot - 1 Kg56–+ADD TO CARTTomato - 1 Kg16–+ADD TO CARTBeans - 1 Kg82–+ADD TO CARTBrinjal - 1 Kg35–+ADD TO CARTCapsicum60–+ADD TO CARTMushroom - 1 Kg75–+ADD TO CARTPotato - 1 Kg22–+ADD TO CARTPumpkin - 1 Kg48–+ADD TO CARTCorn - 1 Kg75–+ADD TO CARTOnion - 1 Kg16–+ADD TO CARTApple - 1 Kg72–+ADD TO CARTBanana - 1 Kg45–+ADD TO CARTGrapes - 1 Kg60–+ADD TO CARTMango - 1 Kg75–+ADD TO CARTMusk Melon - 1 Kg36–+ADD TO CARTOrange - 1 Kg75–+ADD TO CARTPears - 1 Kg69–+ADD TO CARTPomegranate - 1 Kg95–+ADD TO CARTRaspberry - 1/4 Kg160–+ADD TO CARTStrawberry - 1/4 Kg180–+ADD TO CARTWater Melon - 1 Kg28–+ADD TO CARTAlmonds - 1/4 Kg200–+ADD TO CARTPista - 1/4 Kg190–+ADD TO CARTNuts Mixture - 1 Kg950–+ADD TO CARTCashews - 1 Kg650–+ADD TO CARTWalnuts - 1/4 Kg170–+ADD TO CART')]</value>
+      <webElementGuid>82756cae-51bc-4ad2-a0ce-6bdee375fc40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contact textarea</name>
+   <tag></tag>
+   <elementGuidId>ee58d363-3e44-4eec-8947-b4dede644f0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>[placeholder=&quot;Comments&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//section[1]/div[1]/div[2]/form[1]/textarea[1]</value>
+      <webElementGuid>7a6b8645-d9d3-45f5-aefa-b96b6e32bcda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[placeholder=&quot;Comments&quot;]</value>
+      <webElementGuid>7df802f6-a752-481d-98d5-dd5d6c1d8157</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
