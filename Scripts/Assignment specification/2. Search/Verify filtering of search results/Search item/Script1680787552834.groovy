@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://rahulshettyacademy.com/seleniumPractise/#/')
+WebUI.navigateToUrl(GlobalVariable.ApplicationUrl)
 
 WebUI.maximizeWindow()
 
@@ -29,19 +29,33 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Page_GreenKart - Se
 
 WebUI.clearText(findTestObject('Page_GreenKart - Search item/input_KART_search-keyword'))
 
+WebUI.takeScreenshot()
+
+WebUI.takeScreenshot('C:\\Users\\User\\Downloads\\SearchProductCar.png')
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_GreenKart - Search item/div_Carrot - 1 Kg56ADD TO CART'))
+
+WebUI.delay(GlobalVariable.DelayTime)
 
 WebUI.setText(findTestObject('Object Repository/Page_GreenKart - Search item/input_KART_search-keyword'), 'br')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_GreenKart - Search item/div_Brocolli - 1 Kg120ADD TO CART'))
 
+WebUI.takeScreenshot()
+
+WebUI.takeScreenshot('C:\\Users\\User\\Downloads\\SearchProductBr.png')
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_GreenKart - Search item/div_Brinjal - 1 Kg35ADD TO CART'))
 
-WebUI.setText(findTestObject('Page_GreenKart - Search item/input_KART_search-keyword'), 'invalid')
+WebUI.setText(findTestObject('Page_GreenKart - Search item/input_KART_search-keyword'), GlobalVariable.InvalidSearch)
 
 WebUI.clearText(findTestObject('Page_GreenKart - Search item/input_KART_search-keyword'))
 
 WebUI.verifyElementVisible(findTestObject('Page_GreenKart - Search item/Empty Tree'))
+
+WebUI.takeScreenshot()
+
+WebUI.takeScreenshot('C:\\Users\\User\\Downloads\\SearchProductNoProductFound.png')
 
 WebUI.verifyElementVisible(findTestObject('Page_GreenKart - Search item/No object meched your search'))
 

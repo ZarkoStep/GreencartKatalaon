@@ -19,21 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://rahulshettyacademy.com/seleniumPractise/#/')
+WebUI.navigateToUrl(GlobalVariable.ApplicationUrl)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page_GreenKart - Search item/input_KART_search-keyword'), 'invalid')
+def title = WebUI.getWindowTitle()
 
-WebUI.verifyElementVisible(findTestObject('Page_GreenKart - Search item/no-results'))
+WebUI.delay(GlobalVariable.DelayTime)
 
-WebUI.verifyElementVisible(findTestObject('Page_GreenKart - Search item/Empty Tree'))
-
-WebUI.verifyElementVisible(findTestObject('Page_GreenKart - Search item/No object meched your search'))
-
-WebUI.verifyElementText(findTestObject('Page_GreenKart - Search item/No object meched your search'), 'Sorry, no products matched your search!')
-
-WebUI.verifyElementText(findTestObject('Page_GreenKart - Search item/Enter a different keyword and try'), 'Enter a different keyword and try.')
-
-WebUI.closeBrowser()
+WebUI.verifyMatch(title, 'GreenKart - veg and fruits kart', true)
 

@@ -19,27 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl(GlobalVariable.ApplicationUrl)
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://rahulshettyacademy.com/seleniumPractise/#/')
-
-for (def i = 0; i < 4; i++) {
-    WebUI.click(findTestObject('Object Repository/Page_GreenKart - veg and fruits kart/button_ADD TO CART'))
-}
-
-for (def i = 0; i < 3; i++) {
-    WebUI.click(findTestObject('Page_GreenKart - veg and fruits kart/button_ADD TO CART random'))
-}
-
-WebUI.click(findTestObject('Object Repository/Page_GreenKart - veg and fruits kart/img'))
-
-WebUI.click(findTestObject('Object Repository/Page_GreenKart - veg and fruits kart/button_PROCEED TO CHECKOUT'))
-
-WebUI.delay(5)
-
-WebUI.waitForElementVisible(findTestObject('Page_GreenKart - veg and fruits kart/Quantiry'), 10)
-
-WebUI.takeScreenshot()
-
-WebUI.closeBrowser()
+WebUI.verifyMatch(title, 'GreenKart - veg and fruits kart', true)
 

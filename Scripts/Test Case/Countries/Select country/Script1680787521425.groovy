@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://rahulshettyacademy.com/seleniumPractise/#/')
+WebUI.navigateToUrl(GlobalVariable.ApplicationUrl)
 
 for (def i = 0; i < 4; i++) {
     WebUI.click(findTestObject('Object Repository/Page_GreenKart - veg and fruits kart/button_ADD TO CART'))
@@ -75,7 +75,7 @@ WebUI.delay(1)
 WebUI.verifyElementText(findTestObject('Page_GreenKart - veg and fruits kart/span_Thank you, your order has been placed _cef5f0'), 
     'Please accept Terms & Conditions - Required')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_GreenKart - veg and fruits kart/input_Choose Country_chkAgree (1)'), 
+WebUI.verifyElementVisible(findTestObject('null'), 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_GreenKart - veg and fruits kart/input_Choose Country_chkAgree'))
@@ -88,7 +88,8 @@ WebUI.delay(1)
 
 WebUI.getText(findTestObject('Country/Thank you'))
 
-String expectedText = "Thank you, your order has been placed successfully"
+String expectedText = 'Thank you, your order has been placed successfully'
+
 WebUI.verifyTextPresent(expectedText, false)
 
 WebUI.verifyElementText(findTestObject('Page_GreenKart - veg and fruits kart/Home linktext'), 'Home')

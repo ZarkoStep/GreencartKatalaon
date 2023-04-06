@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No item found</description>
+   <name>No product matched</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <testCaseGuid>f5643707-82dc-4396-b580-604c364f4278</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc45547a-d060-4820-b46a-100e81870142</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f63dd867-b0f7-4b52-b1fb-3c25db0a43ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://rahulshettyacademy.com/seleniumPractise/#/'</defaultValue>
+      <description></description>
+      <id>cc45547a-d060-4820-b46a-100e81870142</id>
+      <masked>false</masked>
+      <name>AplicationUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'invalid'</defaultValue>
+      <description></description>
+      <id>f63dd867-b0f7-4b52-b1fb-3c25db0a43ab</id>
+      <masked>false</masked>
+      <name>InvalidSearch</name>
+   </variable>
+</TestCaseEntity>

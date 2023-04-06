@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>baseUrl</description>
+      <initValue>'https://rahulshettyacademy.com/seleniumPractise/#/'</initValue>
+      <name>ApplicationUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>DelayTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Typing invalid text</description>
+      <initValue>'invalid'</initValue>
+      <name>InvalidSearch</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

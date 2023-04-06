@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify title tab text</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <testCaseGuid>cfd8e0fc-dc67-4768-8196-2278d8e270b9</testCaseGuid>
+</TestCaseEntity>

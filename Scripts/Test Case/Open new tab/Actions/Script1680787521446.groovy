@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('http://www.webdriveruniversity.com/')
+WebUI.navigateToUrl(GlobalVariable.ApplicationUrl)
 
 WebUI.scrollToElement(findTestObject('webdriver univesity/Page_WebDriverUniversity.com/Webdriver waits can be'), 2)
 
